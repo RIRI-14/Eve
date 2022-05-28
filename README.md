@@ -1,4 +1,4 @@
-# Eve : Spotify song recommendation application using Spotify API, Genius API and Streamlit
+# Eve : Spotify song recommendation application using Spotify API and Streamlit
 ![Screenshot (430)](https://user-images.githubusercontent.com/95530591/170839553-802ee7b2-7fae-4f18-96f6-fe4fef714151.png)
 ## Live Demo
 👉[CLICK HERE](https://e-ve.herokuapp.com/)👈
