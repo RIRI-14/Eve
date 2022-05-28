@@ -1,6 +1,6 @@
 pandas==1.2.4
 plotly==5.6.0
 scikit-learn==1.1.1
-memort_profiler==0.60.0
+memory_profiler==0.60.0
 sklearn==0.0
 streamlit
