@@ -20,8 +20,8 @@ import streamlit.components.v1 as components
 # @profile
 
 ## Execution Time of the application
-import datetime
-b = datetime.datetime.now()
+# import datetime
+# b = datetime.datetime.now()
 
 # The data file used is a preprocessed data file, processed and created through the kaggle notebook.
 # The SpotGenTrack Popularity Dataset :: This data was collected from Spotify and Genius throughout their respective API's.
@@ -160,4 +160,4 @@ with st.container():
         st.write("NO MORE SONGS TO RECOMMEND!!!")
 # Footer for the app
 st.write("Transformed by RIRI-14. Powered by the SpotifyAPI.")
-st.write(datetime.datetime.now() - b)
+# st.write(datetime.datetime.now() - b)
